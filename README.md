@@ -17,4 +17,4 @@ In this project, we compared the performance of several classification models to
 Each model was evaluated using classification metrics such as accuracy, precision, recall, and F1-score.
 Through comparison, we aimed to identify which model performs best in predicting injury severity and gain insights into feature importance and model interpretability.
 
-NOTE: This project is a prototype created for learning purposes.
+## NOTE: This project is a prototype created for learning purposes.
